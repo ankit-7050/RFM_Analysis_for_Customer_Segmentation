@@ -1,15 +1,15 @@
 # RFM_Analysis_for_Customer_Segmentation 
 
 ## Dashboard Overview
-> This RFM Analysis dashboard provides a comprehensive view of customer segmentation based on their recent purchasing behavior, purchase frequency, and monetary value of transactions.
-> The dashboard is designed to assist in identifying different customer segments and guiding targeted marketing efforts to improve customer retention and loyalty.
+This RFM Analysis dashboard provides a comprehensive view of customer segmentation based on their recent purchasing behavior, purchase frequency, and monetary value of transactions.
+The dashboard is designed to assist in identifying different customer segments and guiding targeted marketing efforts to improve customer retention and loyalty.
 ![Dashboard](https://github.com/user-attachments/assets/6090e2b0-6ef1-4611-b29e-7f8d2edbf7dc)
 
 
 ## Customer Segmentation:
 
-> The majority of customers fall into the "At Risk/Need Attention" category (741 customers), followed by "Loyal Customers" (584), "Immediate Attention" (470), and "Top Customers" (418).
-> This indicates that while a substantial portion of customers are at risk, there is also a loyal base that can be nurtured further.
+The majority of customers fall into the "At Risk/Need Attention" category (741 customers), followed by "Loyal Customers" (584), "Immediate Attention" (470), and "Top Customers" (418).
+ This indicates that while a substantial portion of customers are at risk, there is also a loyal base that can be nurtured further.
 
 ## Customer Segment Percentage:
 
